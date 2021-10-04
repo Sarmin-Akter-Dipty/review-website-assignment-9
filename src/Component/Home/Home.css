@@ -1,0 +1,16 @@
+.course-img img{
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+}
+.course-cart{
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    padding: 30px;
+    border-radius: 20px;
+    background-color:#F9F7FF;
+   
+    
+}

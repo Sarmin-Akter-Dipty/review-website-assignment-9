@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Welcome to Experties Skill.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Visit our site https://skill-and-education.netlify.app/
+
+#Our Services
+.To share skill worldwide
+.Best Teachers
+.Best price package 
+
+This project was bootstrapped with [Create React App](https://skill-and-education.netlify.app/).
 
 ## Available Scripts
 
