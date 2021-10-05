@@ -19,6 +19,7 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Main></Main>
+            <Extra></Extra>
           </Route>
 
           <Route path="/home">
