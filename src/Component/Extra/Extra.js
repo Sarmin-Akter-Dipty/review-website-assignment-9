@@ -6,7 +6,7 @@ const Extra = () => {
     return (
         <div>
             <div className="bg-secondary my-3 rounded text-white" >
-                <h2 className="color">TESTIMONIALS</h2>
+                <h1 className="color">Testimonials</h1>
                 <p>Knowledge is a familiarity, awareness, or understanding of someone or something, such as facts (descriptive knowledge), skills (procedural knowledge), or objects (acquaintance knowledge). By most accounts, knowledge can be acquired in many different ways and from many sources, including but not limited to perception, reason, memory, testimony, scientific inquiry, education, and practice.</p>
                 <img className="width" src="https://images.unsplash.com/photo-1581464668603-1b215d0c5469?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80" alt="" />
                 <h4>William Smith</h4>

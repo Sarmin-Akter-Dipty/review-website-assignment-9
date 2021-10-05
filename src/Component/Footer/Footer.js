@@ -14,8 +14,9 @@ const Footer = () => {
                     <h3>FAQ</h3>
                 </div>
                 <div className="col-md-6 my-5">
-                    <input type="Email" placeholder="Email" />
-                    <Button>Login</Button>
+                    <input className="border-0 rounded my-1" type="Email" placeholder="Enter Your Email" /><br />
+                    <input className="border-0 rounded my-1" type="Password" placeholder="Enter Your Password" /><br />
+                    <Button className=" bg-secondary text-white border-0 rounded px-4 py-1 ">Login</Button>
                 </div>
             </div>
             <p>&copy; 2021 Experties Skill Designed By PK</p>
