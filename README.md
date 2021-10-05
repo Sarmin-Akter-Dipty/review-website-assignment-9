@@ -1,6 +1,6 @@
 # Welcome to Experties Skill
 
-[Visit our site](https://skill-and-education.netlify.app/"Experties Skill")
+[Visit our site](https://skill-and-education.netlify.app/"Experties-Skill")
 
 ---
 
