@@ -3,7 +3,7 @@ import Home from '../Home/Home';
 const Main = () => {
     const [courses, setCourses] = useState([])
     useEffect(() => {
-        fetch('./fakedata.json')
+        fetch('./Fake.json')
             .then(res => res.json())
             .then(data => setCourses(data));
     }, [])

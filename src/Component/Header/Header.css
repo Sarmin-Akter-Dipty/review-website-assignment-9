@@ -2,9 +2,6 @@
     color:#03B97C;
 
 }
-/* .Navbar-color{
-    background-color: #03B97C;
-} */
 .items {
     list-style: none;
     margin-right: 30px;
@@ -16,6 +13,9 @@
     text-decoration: none;
   }
   .items:hover {
-    color: rgb(221, 5, 5);
+    color: rgb(17, 17, 17);
   }
-  
+ .site-logo{
+   width: 60px;
+   height: 60px;
+ }
