@@ -1,10 +1,10 @@
-#Welcome to Experties Skill
+# Welcome to Experties Skill
 
-[Visit our site] (https://skill-and-education.netlify.app/ "Experties Skill")
+[Visit our site](https://skill-and-education.netlify.app/"Experties Skill")
 
 ---
 
-#Our Services
+# Our Services
 
 1. To share skill worldwide
 2. Best Teachers
